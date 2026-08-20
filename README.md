@@ -1,5 +1,7 @@
 # AppVersal CSAT Campaign Builder
 
+![AppVersal CSAT Campaign Builder Preview](./public/appversal-preview.png)
+
 A real-time, interactive Customer Satisfaction (CSAT) Campaign Builder constructed with React, TypeScript, Vite, and Tailwind CSS. This application allows marketing and product teams to dynamically configure CSAT feedback popups—both content and visual styling—and instantly preview them inside a mobile device shell in real time.
 
 ---

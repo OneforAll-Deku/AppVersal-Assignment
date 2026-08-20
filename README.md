@@ -113,9 +113,7 @@ npm run build
 
 ## Deployment
 
-The application is configured for deployment on platforms like Vercel, Netlify, Render, or Firebase Hosting.
+- **Live Deployment URL**: [https://appversal-csat-builder.vercel.app](https://appversal-csat-builder.vercel.app)
+- **GitHub Repository**: [https://github.com/OneforAll-Deku/AppVersal-Assignment.git](https://github.com/OneforAll-Deku/AppVersal-Assignment.git)
 
-To deploy on Vercel:
-```bash
-npx vercel
-```
+The application is deployed live on Vercel and connected for automatic CI/CD builds on push to the `main` branch.
